@@ -1,0 +1,11 @@
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\VYJIMKY_TEST\bin\Debug\VYJIMKY_TEST.exe.config
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\VYJIMKY_TEST\bin\Debug\VYJIMKY_TEST.exe
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\VYJIMKY_TEST\bin\Debug\VYJIMKY_TEST.pdb
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\VYJIMKY_TEST\obj\Debug\VYJIMKY_TEST.csproj.AssemblyReference.cache
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\VYJIMKY_TEST\obj\Debug\VYJIMKY_TEST.csproj.SuggestedBindingRedirects.cache
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\VYJIMKY_TEST\obj\Debug\VYJIMKY_TEST.Form1.resources
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\VYJIMKY_TEST\obj\Debug\VYJIMKY_TEST.Properties.Resources.resources
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\VYJIMKY_TEST\obj\Debug\VYJIMKY_TEST.csproj.GenerateResource.cache
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\VYJIMKY_TEST\obj\Debug\VYJIMKY_TEST.csproj.CoreCompileInputs.cache
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\VYJIMKY_TEST\obj\Debug\VYJIMKY_TEST.exe
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\VYJIMKY_TEST\obj\Debug\VYJIMKY_TEST.pdb
